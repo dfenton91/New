@@ -1,0 +1,70 @@
+h1 {
+    color: #22AFFF;
+    font-family: 'Cinzel', serif;
+    font-size: 100px;
+    text-align: right; 
+    background-color: transparent; 
+    font-size: 4em;
+}
+
+h2 {
+    color: #22AFFF;
+    font-family: 'Cinzel', serif;
+    font-size: 110px;
+    text-align: right; 
+    background-color: transparent;  
+}
+
+.headshot {
+    height: 400px;
+    width: 450px;
+    display: block;
+    margin-left: 25%;
+    
+}
+
+.logo {
+    height: 200px;
+    width: 270px; 
+    margin-top: 50px; 
+}
+
+.AboutMePara {
+    color: white;
+    font-size: xx-large;
+    font-family: 'DM Sans', sans-serif;
+}
+
+.contact {
+    color: #22AFFF;
+    text-align: center;
+    font-size: 25px;
+    margin-left: 205px;
+    margin-right: auto;
+    font-family: 'DM Sans', sans-serif;
+    
+}
+
+.Resume {
+    color: #22AFFF;
+    font-size: 25px;
+    margin-left: 103px;
+    margin-right: auto;
+    font-family: 'DM Sans', sans-serif;
+}
+
+.Intro {
+    color: #22AFFF;
+    font-size: 30px;
+    text-align: left;
+    font-family: 'DM Sans', sans-serif;
+    background-color: black;
+}
+
+.Aboutt {
+    color: #22AFFF;
+    font-size: 25px;
+    margin-left: 100px;
+    margin-right: 103px;
+    font-family: 'DM Sans', sans-serif;
+} 
